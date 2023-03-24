@@ -17,4 +17,4 @@
 以上就是我的自我介绍，谢谢大家！ :smile:
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StoneHappy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekgary-x)](https://github.com/anuraghazra/github-readme-stats)
