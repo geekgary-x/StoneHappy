@@ -8,6 +8,4 @@
 我对图形学和三维重建非常感兴趣。
 
 
-谢谢大家！ :smile:
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekgary-x)](https://github.com/anuraghazra/github-readme-stats)
